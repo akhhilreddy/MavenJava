@@ -1,6 +1,6 @@
 # Maven Java Lab
 
-A small Java 17 Maven project for practising Jenkins Freestyle jobs.
+A small Java 17 Maven project for practising .
 
 ## Maven commands
 

@@ -7,6 +7,8 @@ A small Java 17 Maven project for practising .
 ```bash
 mvn clean
 mvn install
+
+bye
 mvn test
 ```
 
